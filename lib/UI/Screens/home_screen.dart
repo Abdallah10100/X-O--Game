@@ -20,9 +20,9 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 25, 25, 25),
         title: Text(
-          "Calculator",
+          "Calculator***",
           style: TextStyle(
-            color: Colors.white,
+            color: Colors.red,
             fontSize: 30,
           ),
         ),
